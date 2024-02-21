@@ -82453,7 +82453,7 @@ aq(){return new A.VK(B.m)}}
 A.VK.prototype={
 R(a){var s,r,q=null
 $.FR()
-s=A.awT(B.Jj,A.qV("assets/svgs/whatsapp.svg",40,40),!1,new A.al1())
+s=A.awT(B.Jj,A.qV("codewave_page/assets/svgs/whatsapp.svg",40,40),!1,new A.al1())
 r=t.p
 return new A.A8(A.lx(A.aw4(B.aq,$.ave(),q,q,!1,B.az,!1,A.a([A.ayZ(new A.aeW(A.a([new A.xF(1152,q),B.NF],r),A.aN([null,0],t.LO,t.S)))],r)),q,q),new A.cY(new A.aT(0,0,0,24),new A.cY(new A.aT(0,0,24,0),s,q),q),B.nj,q)}}
 A.al1.prototype={
@@ -82497,7 +82497,7 @@ s=t.l
 k=A.bo(k,m,s).w
 $.FR()
 r=t.p
-q=A.a([A.qV("assets/svgs/long_logo.svg",35,146),B.a4z],r)
+q=A.a([A.qV("codewave_page/assets/svgs/long_logo.svg",35,146),B.a4z],r)
 p=n.c
 p.toString
 if(!(A.bo(p,B.b7,s).w.a.gdl()<600)){p=A.lu(10)
@@ -82516,8 +82516,8 @@ A.al0.prototype={
 $2(a,b){var s,r,q,p=null,o=t.p,n=A.a([],o),m=t.l
 if(!(A.bo(a,B.b7,m).w.a.gdl()<600||A.xz(a))){s=this.a.gHo()
 $.FR()
-n.push(A.t7(p,A.at5(A.rc(A.qs(A.qV("assets/svgs/decoration_1.svg",p,p),p),p,p),0.2,0),p,p,p,s-120,0,p))}if(!(A.bo(a,B.b7,m).w.a.gdl()<600||A.xz(a))){$.FR()
-n.push(A.t7(0,A.Hd(A.a([A.at5(A.rc(A.qs(A.qV("assets/svgs/decoration_2.svg",p,p),p),p,p),-0.2,0)],o),B.cC,B.ia,B.aC),p,p,-220,p,0,p))}s=this.a
+n.push(A.t7(p,A.at5(A.rc(A.qs(A.qV("codewave_page/assets/svgs/decoration_1.svg",p,p),p),p,p),0.2,0),p,p,p,s-120,0,p))}if(!(A.bo(a,B.b7,m).w.a.gdl()<600||A.xz(a))){$.FR()
+n.push(A.t7(0,A.Hd(A.a([A.at5(A.rc(A.qs(A.qV("codewave_page/assets/svgs/decoration_2.svg",p,p),p),p,p),-0.2,0)],o),B.cC,B.ia,B.aC),p,p,-220,p,0,p))}s=this.a
 n.push(s.ga0K())
 r=A.bo(a,B.b7,m).w.a.gdl()<600||A.xz(a)?B.ia:B.aB
 q=s.ga7G()
@@ -82525,7 +82525,7 @@ o=A.a([new A.cY(new A.aT(s.gHo(),0,0,0),q,p)],o)
 if(!(A.bo(a,B.b7,m).w.a.gdl()<600)&&!A.xz(a)){s=A.bo(a,p,m).w
 m=A.bo(a,p,m).w
 $.aD2()
-o.push(A.rc(A.qs(A.fk(new A.rr(A.aKl(p,p,new A.vX("assets/images/mac_frame.png",p,p)),p),m.a.b/1.5,s.a.a/2),p),p,p))}n.push(A.lx(A.fW(o,r,B.aC),p,p))
+o.push(A.rc(A.qs(A.fk(new A.rr(A.aKl(p,p,new A.vX("codewave_page/assets/images/mac_frame.png",p,p)),p),m.a.b/1.5,s.a.a/2),p),p,p))}n.push(A.lx(A.fW(o,r,B.aC),p,p))
 n.push(A.t7(24,new A.Hl(new A.al_(a),p),p,p,0,0,p,p))
 return A.AQ(B.jn,n,B.aq,B.f4)},
 $S:458}
@@ -82642,11 +82642,11 @@ A.Zf.prototype={
 R(a){var s,r,q=this
 q.a.toString
 $.FR()
-s=A.qV("assets/svgs/linkedin.svg",46,46)
+s=A.qV("codewave_page/assets/svgs/linkedin.svg",46,46)
 q.a.toString
-r=A.qV("assets/svgs/instagram.svg",38.333333333333336,38.333333333333336)
+r=A.qV("codewave_page/assets/svgs/instagram.svg",38.333333333333336,38.333333333333336)
 q.a.toString
-return A.fk(new A.PV(A.a([s,r,A.qV("assets/svgs/github.svg",46,46)],t.p),new A.anY(q),null),null,230)}}
+return A.fk(new A.PV(A.a([s,r,A.qV("codewave_page/assets/svgs/github.svg",46,46)],t.p),new A.anY(q),null),null,230)}}
 A.anY.prototype={
 $0(){this.a.a.toString
 return A.asc(46)},
